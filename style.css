@@ -1,0 +1,36 @@
+html {
+  background: url(img/spheal13.png) fixed no-repeat center;
+  background-size: cover;
+}
+
+body {
+  background: white;
+  width: 600px;
+  margin: 150px auto;
+  padding: 40px 30px;
+  border-radius: 75px;
+  text-align: center;
+  text-shadow: 2px 0px 0.5px #5beeee;
+  font-family: "Satisfy";
+  font-size: 20px;
+}
+
+img {
+  border-radius: 10px;
+  width: 100px;
+}
+
+img:hover {
+  opacity: 0.7;
+  transition: opacity 0.5s;
+}
+
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+td {
+  border: 2px solid black;
+  padding: 10px 15px;
+}
